@@ -22,7 +22,7 @@ TODO: Add long description of the pod here.
     the srinipod1 cocoapod used to webAuthn api authendication.
                        DESC
 
-  s.homepage         = 'https://github.com/srinivasant/srinipod1'
+  s.homepage         = 'https://github.com/srinivasant/srinipod1.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Srini' => 'srinit@meliosystems.com' }
