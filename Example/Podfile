@@ -1,0 +1,6 @@
+use_frameworks!
+target 'srinipod1_Tests' do
+  pod 'srinipod1', :path => '../'
+  
+  
+end
